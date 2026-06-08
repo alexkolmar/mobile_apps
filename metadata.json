@@ -1,0 +1,6 @@
+{
+  "name": "App Flight Mode",
+  "description": "Simulates flight mode for specific applications by intercepting and blocking their internet access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
